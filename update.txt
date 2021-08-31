@@ -1,0 +1,54 @@
+________
+| 1.0  |
+--------
+         Simple launch
+--------------------------------------
+|             103 iframe              |
+ -------------------------------------
+| website link         | no of attach |
+| smsbomber.online     |   45         |
+| freekamal.tech  sms  |   38         |
+| freekamal.tech call  |   20         |
+---------------------------------------
+index is simple codeing 
+after submitting show only (now sms is sending)
+name showing add
+2 js file attachments
+2 index
+Tested
+Working Sacsfully
+notes and how to use added
+app Build 
+    ads
+
+banner ad
+internastion ad
+---------------------------------------
+_____
+| 1.1 |
+-----
+    -------------
+   | first index |
+    -------------
+backround image added
+costimeze front and color
+resize on phone
+add 4 marquee tag in html
+agrement highlite
+font color changing
+class conf costimze
+and all class added colour
+
+-------------
+   ------------------
+  |after submit index|
+   ------------------
+Input Phone no showing added 
+iframe recoding
+add p h1 h3 b and marquee tag
+added notes
+added background color
+warning added
+etc
+
+--------------------------------------End Update
