@@ -15,6 +15,7 @@
 _______
 | 1.0.0  |
 --------
+ 30 August 2021
          Simple launch
 --------------------------------------
 |             103 iframe              |
@@ -52,7 +53,7 @@ internastion reword ad  | not showing
 ________
 | 1.1.0 |
 --------
-
+31 August 2021
 aading README.md
 5 users app installed 
 sending good morning sms on screen
@@ -87,6 +88,7 @@ etc
 ________
 | 1.1.1 |
 ---------
+1 September 2021
 
 -----------------------------------------
 |                165 iframe              |
@@ -140,6 +142,14 @@ update 1.3 to 1.4
 removed internartional reword beta ads
 adding internartional full screen ads
 server url changed index to index2
+
+   _______
+  | 1.1.2 |
+  2 September 2021
+   -------
+bug fixed
+3 api not working perfectly fixed 
+etc
 
 
 --------------------------------------End Update
