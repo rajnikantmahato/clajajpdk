@@ -152,6 +152,9 @@ bug fixed
 Remove floating (thanks for using)
 Re adding marquee
 Re sizes
+Privacy Policy indexed add
+Terms and Conditions index add
+Chackbox resize
 etc
 
 
