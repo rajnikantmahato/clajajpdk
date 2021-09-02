@@ -149,6 +149,9 @@ server url changed index to index2
    -------
 bug fixed
 3 api not working perfectly fixed 
+Remove floating (thanks for using)
+Re adding marquee
+Re sizes
 etc
 
 
