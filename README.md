@@ -147,15 +147,75 @@ server url changed index to index2
   | 1.1.2 |
   2 September 2021
    -------
-bug fixed
+
+bug fixed 
 3 api not working perfectly fixed 
-Remove floating (thanks for using)
-Re adding marquee
-Re sizes
-Privacy Policy indexed add
-Terms and Conditions index add
-Chackbox resize
-etc
+remove floting (thanks for using  ) 
+re adding marquee (thank for using )
+privacy policy index add
+terms and conditions index add
+chackbox resize
+
+
+=======================================+
+
+ _______
+| 1.1.3 |
+ -------
+ 7 September 2021
+ 
+-----------------------------------------
+|                200 iframe              |
+ ----------------------------------------
+| website link            | no of attach |
+ ------------------------- --------------
+| smsbomber.online        |    53        |
+| freekamal.tech  sms     |    51        |
+| freekamal.tech call     |    17        |
+| justdial.com            |    23        |
+| coolwinks.com           |    18        |
+| securedapi.com          |    38        |
+---------------------------------------==
+
+bug fixed
+name mistek changed
+re coding
+now encrytipe coding
+server deleting
+new server config
+ifram 163 to 200 update 
+update index update to index2
+function var a change to simplehacker
+ 
+
+
+ _____________
+|  first index |
+ ---------------
+
+bug fixed 
+
+_____________________
+| after submit index |
+---------------------
+
+bug fixed 
+
+  ____________
+  | app build |
+  -------------
+update to 1.4 to 1.5
+build version 5
+update index2 to index3
+call btn removed
+main java function callbtn commented
+
+    ------
+   | ads |
+    ------
+
+banner ad | not showing
+internastion reword ad  | not showing
 
 
 --------------------------------------End Update
