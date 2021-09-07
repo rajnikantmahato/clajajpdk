@@ -1,3 +1,3 @@
 
-var simplehacker = prompt("enter your Victim Phone No");
+var a = prompt("enter your Victim Phone No");
 
