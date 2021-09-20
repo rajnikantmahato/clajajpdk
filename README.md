@@ -186,6 +186,8 @@ new server config
 ifram 163 to 200 update 
 update index update to index2
 function var a change to simplehacker
+error in function simplehacker re change to a
+
  
 
 
@@ -218,4 +220,108 @@ banner ad | not showing
 internastion reword ad  | not showing
 
 
++======================================+
+
+
+  _______
+ | 1.1.4 |
+  -------
+    18 September 2021
+
+bug fixed
+re change function a to simplehacker
+adding change index
+adding love3
+aading new img on backround
+sarver change to privet server
+3 server added 
+   changed to 3 server
+     1 .. free   280sms  6 api
+     2 .. beta   unlimited 6 api
+     3 .. prime  ulimited  super fast  10 api
+
+        1 ---  free smsbomber 
+    -----------------------------------------
+    |                165 iframe              |
+    ----------------------------------------
+    | website link            | no of attach |
+     ------------------------- --------------
+    | smsbomber.online        |    45        |
+    | freekamal.tech  sms     |    38        |
+    | freekamal.tech call     |    20        |
+    | justdial.com            |    16        |
+    | coolwinks.com           |    15        |
+    | securedapi.com          |    31        |
+    ---------------------------------------==
+
+        1 ---  beta smsbomber 
+    -----------------------------------------
+    |                200 iframe              |
+    ----------------------------------------
+    | website link            | no of attach |
+     ------------------------- --------------
+    | smsbomber.online        |    45        |
+    | freekamal.tech  sms     |    55        |
+    | freekamal.tech call     |    32        |
+    | justdial.com            |    16        |
+    | coolwinks.com           |    21        |
+    | securedapi.com          |    31        |
+    ---------------------------------------==
+
+
+
+         3 ---  prime bomber
+    -----------------------------------------
+    |                651 iframe              |
+    ----------------------------------------
+    | website link            | no of attach |
+     ------------------------- --------------
+    | smsbomber.online        |    159       |
+    | freekamal.tech  sms     |    180       |
+    | freekamal.tech call     |    51        |
+    | justdial.com            |    69        |
+    | coolwinks.com           |    78        |
+    | securedapi.com          |    114       |
+    ---------------------------------------==
+
+ _____________
+|  first index |
+ ---------------
+
+bug fixed 
+
+__________________
+| after submit index |
+---------------------
+
+bug fixed 
+
+
+ ____________
+  | app build |
+  -------------
+  re config
+update to 1.5 to 1.6
+build version 6
+update index3 to index4
+server changed
+main java function callbtn commented , REMOVED
+#RE  CONFIG splsash screen full
+onesignel id changed
+new firebase
+new admob
+    ------
+   | ads |
+    ------
+
+    account banded
+<!-- 
+banner ad | not showing
+internastion reword ad  | not showing -->
+
+new Account credited
+aproved ads
+
+app user  21
+ACTIVE 15
 --------------------------------------End Update
