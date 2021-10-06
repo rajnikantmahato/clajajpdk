@@ -1,13 +1,14 @@
  
-        ---------------------------------------------
-        |  Author: Simplehacker1                     |
-        |  Software: smsbomber                       |
-        |  Url build date :  29 aug 2021             |
-        |  App build date : 30 aug 2021              |
-        |  Copyright 2021 All Rights Reserved        | 
-        |  App name : sms bomber prosnal Edition     |
-        |  Package name : rajni.or.kishan.supporter3 |
-        ---------------------------------------------
+        -------------------------------------------------------------
+        |  Author: Simplehacker1                                     |
+        |  Software: smsbomber                                       |
+        |  Url build date :  29 aug 2021                             |
+        |  App build date : 30 aug 2021                              |
+        |  Copyright 2021 All Rights Reserved                        | 
+        |  App name : sms bomber prosnal Edition                     |
+        |  Package name : rajni.or.kishan.supporter3             old |
+        |  Package name : Simplehcker.Prvate.Eition.SmsomBomber  new |
+        -------------------------------------------------------------
 
     ## NOTE  :  Sms Bomber and all of its source code/files are protected by Copyright Laws  ##
 
@@ -324,4 +325,141 @@ aproved ads
 
 app user  21
 ACTIVE 15
+
++=======================================================+
+
+
+  _______
+ | 1.1.5 |
+  -------
+  2 oct 2021 App Relese
+  3 oct 2021 New Server Relese
+  ----------
+
+
+20 Api Added
+server change 
+function change 
+all api deleted
+adding new api 
+super fast sms api added
+call bombing mixed added
+new config
+inpuit fil added
+adding mysql 
+html to php changed
+prime and beta  deleted
+new cpanel adding
+ip traking adding
+number dump add
+male femail adding
+whatsapp icon adding
+call icon deletd
+reconfig app code
+index 4 to 5
+form method adding
+admob test id adding
+app package name changed to
+Simplehacker 
+fab coding deletd
+full screen banner add 
+header banner ads
+footer banner ads
+App Marged To 26 mb to 5 mb
+
+All First and Second index Deletd
+Bug Fixed
+
+____________
+  | app build |
+  -------------
+  re config
+update to 1.6 to 1.7
+build version 7
+update index4 to index5
+server changed
+main java function callbtn removed
+RE  CONFIG splsash screen full
+splash Rounded Icon Adding
+onesignel id changed
+old firebase deletd
+package name changed
+new firebase
+new admob testing id
+add new banner id
+App Rename To privet Edition
+App marged 26 mb to 5 mb 
+
+
+    ------
+   | ads |
+    ------
+
+  New Admob  account 
+
+banner ad | Not showing
+Footer as | Not Showing
+internastion reword ad  | not showing 
+
+new Account credited
+//aproved ads
+
+Happy app user  33
+ACTIVE 15
+
+_______
+ | 1.1.6 |
+  -------
+  6 oct 2021
+
+bug fixed
+ip response error sloved
+quary solved
+error .txt solved
+admob adding
+E word capital
+Admob now Activet
+background color black
+input fil re code
+border style added
+app marged to sdk 31
+now android 11 suport
+
+    
+____________
+  | app build |
+  -------------
+     re config
+update to 1.7 to 1.8
+build version 8
+update index5 to index6
+server changed
+main java function callbtn removed
+RE  CONFIG splsash screen full
+splash Rounded Icon Adding
+onesignel id changed
+new admob  id
+add new banner id
+App Rename To privet Edition
+App marged 26 mb to 5 mb 
+Lastest Sdk To 31
+now suport on android 11
+
+
+    ------
+   | ads |
+    ------
+
+  Admob  account 
+
+banner ad | showing
+Footer as | Showing
+internastion reword ad  | showing 
+
+//new Account credited
+aproved ads
+
+Happy app user  45
+ACTIVE 20
+
 --------------------------------------End Update
