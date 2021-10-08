@@ -502,10 +502,30 @@ _______
   re run backup Server
 
 
+
+
+    ------
+   | ads |
+    ------
+
+  Admob  account 
+
+banner ad | showing
+Footer as | Showing
+internastion reword ad  | showing 
+
+//new Account credited
+aproved ads
+
+Happy app user  60
+ACTIVE 20
+
+ 
+
 _______
  | 1.2.0 |
   -------
-  8 oct 2021
+  8 oct 2021 6.29 am completed
 
   new Server
   all php coding chnaged to html
@@ -513,8 +533,87 @@ _______
   re config
   prevcy ploice Update
   new conform buttom
+  changer2 added
+  adding server changer 
+  old and new Server Added
+  color costomize 
+  old Server response in text file downloaded bin file
+  adding readme on main page
+  readme tranform new Server
   
 
+
+  ------
+   | ads |
+    ------
+
+  Admob  account 
+
+banner ad | showing
+Footer as | Showing
+internastion reword ad  | showing 
+
+//new Account credited
+aproved ads
+
+Happy app user  67
+ACTIVE 20
+
+
+______
+ | 1.2.1 |
+  -------
+  8 oct 2021 4.20 PM
+  new Server
+  5 new call api added
+  divied into 3 Server
+     1. Rename Server
+     2. Old Server
+     3. New Server
+  shering bug fixed
+  new blogger Added
+  coolwinks api not
+   working perfectly
+   he respones a text
+    file and downloaded
+  canada server under testing
+  Email bomber under testing
+bug fixed and clean all old data
+etc
+  
+____________
+  | app build |
+  -------------
+  index 6 to index 7
+  build version 9
+  gradel virson Update
+  boder style changed
+  youtube link cahnged to channel
+  phone tab removed
+  email changed
+  logo recostomize
+  App Dispaly name changed
+  new name home display
+  now suport on android 11
+  readme update
+
+
+
+  ------
+   | ads |
+    ------
+
+  Admob  account 
+
+banner ad | showing
+Footer as | Showing
+internastion reword ad  | showing 
+
+//new Account credited
+aproved ads
+
+Happy app user  69
+ACTIVE 20
 
 
 --------------------------------------End Update
