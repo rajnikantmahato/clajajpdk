@@ -424,7 +424,6 @@ input fil re code
 border style added
 app marged to sdk 31
 now android 11 suport
-
     
 ____________
   | app build |
@@ -461,5 +460,61 @@ aproved ads
 
 Happy app user  45
 ACTIVE 20
+
+
+
+_______
+ | 1.1.7 |
+  -------
+  7 oct 2021
+
+background color black
+ip trkacing removed
+bug Fixed
+error solved
+error php solved
+input re costimeze
+
+_______
+ | 1.1.8 |
+  -------
+  7 oct 2021
+
+  simplehacker club domain banded by google
+  backuping all data
+  server lost
+  change to backup server
+  re config to new domain
+  buying hosting 
+  php ip iddentfy removed 
+  cattgery ip_geo removed on my sql
+  adding server re run on 6.30pm
+  adding donation letter of site
+
+
+_______
+ | 1.1.9 |
+  -------
+  7 oct 2021
+  tripatner xyz domain deletd by google 11pm
+  all data lost 
+  no backuping
+  re run backup Server
+
+
+_______
+ | 1.2.0 |
+  -------
+  8 oct 2021
+
+  new Server
+  all php coding chnaged to html
+  now all uploading on free hosting
+  re config
+  prevcy ploice Update
+  new conform buttom
+  
+
+
 
 --------------------------------------End Update
