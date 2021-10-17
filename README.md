@@ -603,6 +603,7 @@ ____________
    | ads |
     ------
 
+
   Admob  account 
 
 banner ad | showing
@@ -614,6 +615,137 @@ aproved ads
 
 Happy app user  69
 ACTIVE 20
+
+   Admob Account banned reason  
+   One user using Vpn on App
+
+______
+ | 1.2.2 |
+  -------
+  10 oct 2021
+
+  deleting All server
+  Deleting main system
+  deleting update system
+  update Ended
+  Max update
+  enctype all coding
+  changed all js server
+  add heroku
+  no Vpn
+  added html js only
+  bloger added
+  adsine sending
+  added privecy policy
+  mark box
+  clean all code
+  under mentiuns
+  bug fixed 
+  etc
+
+
+
+____________
+  | app build |
+  -------------
+  index 7 to Max Update
+  build version 10
+  changing to shere option
+  adding whatsapp change
+  App Dispaly name changed
+  readme update
+  Android 11 
+  google play services version chacker added
+  c2dm.permission one signel Added
+  left added end
+  appcompat:1.1.0 update to 1.3.1
+  constraintlayout:1.1.3 update to 2.1.1
+  material:1.1.0 update to 1.4.0
+  firebase-core:17.4.3 update to 19.0.2
+  play-services-ads:19.1.0 update to 19.6.0
+  junit:4.12.0 update to 4.13.2
+  test.ext:junit:1.1.1 update to 1.1.3
+  espresso-core:3.2.0 update to 3.4.0
+  finnely This  App no lonnger Supported
+  bug fixed 
+  marged all code to lastes sdk
+  
+
+  
+  ------
+   | ads |
+    ------
+
+  Admob  account 
+
+banner ad | showing
+Footer as | Showing
+internastion reword ad  | showing 
+
+//new Account credited
+aproved ads
+
+Happy app user  85
+ACTIVE 25
+
+
+______
+ | 1.2.3 |
+  -------
+  15 oct 2021
+  deleting free server
+  deletng main show conform
+  deleting prim server
+  old server deletd coolwik api
+  new happy viruse for fun
+  added new call and sms api
+  app updsate to 2.1
+  re fixed icon
+  ne main page added
+  changed  server:
+       1 __-  New Server
+       2___>  Old Server
+       3_->   happy viruse for fun
+
+  encoding all code
+  bu8g fixed
+
+
+____________
+  | app build |
+  -------------
+  index 10 to Max Update
+  build version 11
+  changing to shere option to hide
+  App Dispaly name changed
+  readme update
+  removed old code modifed 
+  java file
+  added new server
+  adding test add
+  call btm removed
+  adding bloger
+  adding fullscreen banner
+  added test ads id
+  bug fixed
+
+  ------
+   | ads |
+    ------
+
+  Admob  account 
+
+banner ad | not showing
+Footer as |  not Showing
+internastion reword ad  | showing 
+
+//new Account credited
+banded
+one limmited
+
+Happy app user  112
+ACTIVE 43
+
 
 
 --------------------------------------End Update
