@@ -7,7 +7,8 @@
         |  Copyright 2021 All Rights Reserved                        | 
         |  App name : sms bomber prosnal Edition                     |
         |  Package name : rajni.or.kishan.supporter3             old |
-        |  Package name : Simplehcker.Prvate.Eition.SmsomBomber  new |
+        |  Package name : Simplehcker.Prvate.Eition.SmsomBomber  old |
+         |  Package name : Simplehcker.PrvateEition.SmsomBomber  new |
         -------------------------------------------------------------
 
     ## NOTE  :  Sms Bomber and all of its source code/files are protected by Copyright Laws  ##
@@ -745,6 +746,66 @@ one limmited
 
 Happy app user  112
 ACTIVE 43
+
+
+
+
+______
+ | 1.2.4 |
+  -------
+    23 oct 2021
+    server update 
+    package name changed
+    index5 to index22
+    new api added
+    old and new server update
+    adding beta testing
+    changed color on icon
+    android 12 no longer work
+    adding green color
+    javascript no work
+    Downloading Now work
+    in app with out other App
+
+
+
+____________
+  | app build |
+  -------------
+  index 5 to index 12
+  build version 12
+  gradel virson Update
+  boder style changed
+  phone tab removed
+  logo recostomize
+  App Dispaly name changed
+  display changed
+  onsignel no changed
+  adding deep link 
+
+
+
+  ------
+   | ads |
+    ------
+
+  Admob  account 
+
+banner ad |  showing
+//Footer as |  not Showing
+internastion ad  | showing 
+
+//new Account credited
+banded
+one limmited id banded
+
+new account makeing 
+now aproved
+
+
+Happy app user  185
+ACTIVE 80
+
 
 
 
