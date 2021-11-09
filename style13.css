@@ -1,0 +1,12 @@
+body{
+    background-color: azure;
+}
+a{
+   
+    box-shadow: brown;
+    border-color: chartreuse;
+    border-style:double;
+    border-bottom-color: coral;
+    border-left-color: cyan;
+    border-right-color: fuchsia;
+}
