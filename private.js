@@ -1,5 +1,5 @@
 var kathakali = prompt("Enter Your Key : ")
-if (kathakali=="kathakali"){
+if (kathakali=="romeo"){
     var simplehacker  = prompt("Enter Your Phone no : ")
 }
 else{
